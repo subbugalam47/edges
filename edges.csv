@@ -1,0 +1,271 @@
+source;target;edge;weight;bio;articles
+Ahr;Th2 cells;expressed;0.097;1;undefined
+Aryl hydrocarbon receptor 1a;Th2 cells;expressed;0.097;1;undefined
+camp cyclic adenosine monophosphate;Th2 cells;expressed;0.097;1;undefined
+adenosine monophosphate;Th2 cells;expressed;0.097;1;undefined
+PTGDR2;Th2 cells;expressed;0.097;1;undefined
+cAMP-specific 3’,5’-cyclic phosphodiesterase 4;proinflammatory;was associated;0.097;1;undefined
+cAMP-specific 3’,5’-cyclic phosphodiesterase 4;IL2;was associated;0.097;1;undefined
+cAMP-specific 3’,5’-cyclic phosphodiesterase 4;Interleukin-5;was associated;0.097;1;undefined
+cAMP-specific 3’,5’-cyclic phosphodiesterase 4;interleukin-8;was associated;0.097;1;undefined
+cAMP-specific 3’,5’-cyclic phosphodiesterase 4;interleukin 12;was associated;0.097;1;undefined
+cAMP-specific 3’,5’-cyclic phosphodiesterase 4;Interleukin-22;was associated;0.097;1;undefined
+ad;ad;been associated;0.992;1;undefined
+atopic dermatitis;ad;revealed;0.097;1;undefined
+eczema;ad;revealed;0.097;1;undefined
+health;health;affected;0.097;1;undefined
+ad;health;affected;0.29;1;undefined
+cAMP-specific 3’,5’-cyclic phosphodiesterase 4;inflammation;may play; controlling;0.097;0.625;undefined
+cAMP-specific 3’,5’-cyclic phosphodiesterase 4;Tumor necrosis factor a (TNF superfamily, member 2);was associated; including;0.048;0.625;undefined
+ad;Human;is associated; impacts;0.589;0.6;undefined
+PLA2G6-associated neurodegeneration;Alzheimer disease type 1;can help increase; decrease; minimize;0.065;0.589;undefined
+Tnfrsf10b;dermatitis;observed; may be associated;0.048;0.584;undefined
+nk;dermatitis;observed; may be associated;0.048;0.584;undefined
+natural killer;dermatitis;observed; may be associated;0.048;0.584;undefined
+staphylococcus aureus;Alzheimer disease type 1;has been found to colonize;0.097;0.583;undefined
+staphylococcus aureus;POU class 2 homeobox 3;has been found to colonize;0.097;0.583;undefined
+staphylococcus aureus;Human;has been found to colonize;0.097;0.583;undefined
+Human;ad;highlights; associated;0.645;0.562;undefined
+atopic dermatitis;Human;is; affects; has;0.032;0.42;undefined
+ad;Human;is; affects; has;0.589;0.42;undefined
+ad;Alzheimer disease type 1;exhibit increased; including;0.613;0.416;undefined
+atopic disorders;food allergies;including;0.097;0.25;undefined
+atopic disorders;asthma;including;0.097;0.25;undefined
+atopic disorders;allergic rhinitis;including;0.097;0.25;undefined
+Human;Hypothetical protein ECUMN_2087;aged; ranging; aged;0.065;0.25;undefined
+ad;Hypothetical protein ECUMN_2087;aged; ranging; aged;0.161;0.25;undefined
+Hypothetical protein ECUMN_2087;Hypothetical protein ECUMN_2087;aged;0.097;0.25;undefined
+ad;food allergy;included;0.29;0.25;undefined
+ad;asthma;included;0.29;0.25;undefined
+ad;food allergy;including;0.29;0.25;undefined
+ad;mental health disorders;including;0.097;0.25;undefined
+ad;health;including;0.29;0.25;undefined
+ad;asthma;including;0.29;0.25;undefined
+ad;allergic rhinitis;including;0.097;0.25;undefined
+ad;attention deficit disorder;including; including;0.048;0.25;undefined
+ad;hyperactivity;including; including;0.048;0.25;undefined
+ad;add;including; including;0.145;0.25;undefined
+ad;adhd;including; including;0.145;0.25;undefined
+ad;depression;including; including;0.145;0.25;undefined
+Sxl;Alzheimer disease type 1;has;0.097;0.25;undefined
+Filaggrin;Alzheimer disease type 1;has;0.097;0.25;undefined
+skin barrier dysfunction;Alzheimer disease type 1;has;0.097;0.25;undefined
+POU class 2 homeobox 3;bacteria;plays;0.097;0.25;undefined
+POU class 2 homeobox 3;POU class 2 homeobox 3;plays;0.242;0.25;undefined
+ad;Alzheimer disease type 1;feeling;0.613;0.25;undefined
+Alzheimer disease type 1;Cycle;can create;0.097;0.25;undefined
+Human;pruritus;include;0.194;0.25;undefined
+Human;eczema;include;0.097;0.25;undefined
+ad;pruritus;include;0.29;0.25;undefined
+ad;eczema;include;0.194;0.25;undefined
+ad;hydrocortisone;including;0.097;0.25;undefined
+ad;triamcinolone acetonide;including;0.097;0.25;undefined
+Calcineurin A1 Dmel_CG1455;ad;needed;0.097;0.25;undefined
+cAMP-specific 3’,5’-cyclic phosphodiesterase 4;ad;needed;0.097;0.25;undefined
+tci;ad;needed;0.097;0.25;undefined
+crisaborole;ad;needed;0.242;0.25;undefined
+ad;SOAP;comprises; using;0.097;0.25;undefined
+Human;tcs;include adding;0.097;0.25;undefined
+Human;LXN;include adding;0.097;0.25;undefined
+Human;crisaborole;include adding;0.097;0.25;undefined
+Human;ad;have;0.645;0.25;undefined
+dupilumab;eczema;aged;0.121;0.25;undefined
+Human;ad;should be referred;0.645;0.25;undefined
+ad;health;can yield;0.29;0.25;undefined
+dupilumab;Human;have included;0.097;0.25;undefined
+ad;abrocitinib;may be promising; including;0.097;0.25;undefined
+ad;baricitinib;may be promising; including;0.097;0.25;undefined
+ad;upadacitinib;may be promising; including;0.097;0.25;undefined
+ad;Il13;may be promising; including;0.097;0.25;undefined
+ad;Tralokinumab;may be promising; including;0.097;0.25;undefined
+ad;lebrikizumab;may be promising; including;0.097;0.25;undefined
+ad;Alzheimer disease type 1;have; to change;0.613;0.25;undefined
+bacterial infections;infected eczema;have seen; using; to treat;0.065;0.244;undefined
+sleep disturbances;drowsiness;appear to have; resulting;0.048;0.237;undefined
+proinflammatory;Alzheimer disease type 1;has; resulting; can inform;0.065;0.233;undefined
+Drice;Alzheimer disease type 1;has; resulting; can inform;0.065;0.233;undefined
+Human;ad;should undergo; to confirm; is related;0.645;0.233;undefined
+ad;LINF_280034800;is impacted; including;0.048;0.225;undefined
+Human;ad;presented; having;0.645;0.225;undefined
+sleep disturbances;Human;appear to have;0.097;0.225;undefined
+abrocitinib;atopic dermatitis;has been investigated; investigating; aged;0.065;0.217;undefined
+Janus kinases;atopic dermatitis;has been investigated; investigating; aged;0.065;0.217;undefined
+biomarker;IL31;have been identified; including;0.097;0.209;undefined
+biomarker;T helper 17 cell;have been identified; including;0.097;0.209;undefined
+biomarker;interleukin-13;have been identified; including;0.097;0.209;undefined
+biomarker;Th22;have been identified; including;0.097;0.209;undefined
+inflammatory;IL31;have been identified; including;0.097;0.209;undefined
+inflammatory;T helper 17 cell;have been identified; including;0.097;0.209;undefined
+inflammatory;interleukin-13;have been identified; including;0.097;0.209;undefined
+inflammatory;Th22;have been identified; including;0.097;0.209;undefined
+ad;Hypothetical protein ECUMN_2087;had; experiencing;0.161;0.209;undefined
+ad;impaired sleep;had; experiencing;0.097;0.209;undefined
+ad;add;have; being diagnosed;0.145;0.209;undefined
+ad;adhd;have; being diagnosed;0.145;0.209;undefined
+ad;Human;has evolved; have been identified; have; to change;0.589;0.209;undefined
+ad;Alzheimer disease type 1;should be considered; taking;0.613;0.209;undefined
+ad;primary interstitial lung disease specific to childhood;should be considered; taking;0.097;0.209;undefined
+nemolizumab;pruritus;being developed to treat; being investigated; has shown promising; regarding;0.121;0.206;undefined
+IL31RA;pruritus;being developed to treat; being investigated; has shown promising; regarding;0.121;0.206;undefined
+monoclonal antibody;pruritus;being developed to treat; being investigated; has shown promising; regarding;0.121;0.206;undefined
+ad;ad;occurs;0.992;0.2;undefined
+Human;ad;are treated; reporting;0.645;0.2;undefined
+ad;Human;are treated; reporting;0.589;0.2;undefined
+ad;Alzheimer disease type 1;serve to inform;0.613;0.2;undefined
+ad;biomarker;is impacted;0.194;0.2;undefined
+Human;ad;presented;0.645;0.2;undefined
+Alzheimer disease type 1;POU class 2 homeobox 3;appears to be driven;0.194;0.2;undefined
+ad;autism;has become;0.097;0.2;undefined
+T helper 17 cell;ad;signaling is; compared;0.097;0.2;undefined
+Human;pruritus;can be traced;0.194;0.2;undefined
+ad;Alzheimer disease type 1;reported;0.613;0.2;undefined
+Alzheimer disease type 1;POU class 2 homeobox 3;studied;0.194;0.2;undefined
+ad;sleep disturbances;noted;0.194;0.2;undefined
+ad;biomarker;relies; is;0.194;0.2;undefined
+Human;POU class 2 homeobox 3;are employing;0.145;0.2;undefined
+nemolizumab;pruritus;being developed to treat;0.121;0.2;undefined
+IL31RA;pruritus;being developed to treat;0.121;0.2;undefined
+monoclonal antibody;pruritus;being developed to treat;0.121;0.2;undefined
+Alzheimer disease type 1;health;has been shown to be;0.097;0.2;undefined
+Alzheimer disease type 1;Human;has been shown to be;0.194;0.2;undefined
+ad;Human;treating;0.589;0.2;undefined
+crisaborole;Human;can be administered; needed;0.097;0.197;undefined
+cAMP-specific 3’,5’-cyclic phosphodiesterase 4;Human;can be administered; needed;0.097;0.197;undefined
+Human;impaired sleep quality;may present; exacerbated;0.097;0.183;undefined
+ad;impaired sleep quality;may present; exacerbated;0.097;0.183;undefined
+atopic dermatitis;Alzheimer disease type 1;have resulted; to revolutionize;0.097;0.18;undefined
+Alzheimer disease type 1;skin disease;have expanded; supporting;0.097;0.171;undefined
+Th22;Interleukin-22;cytokine;0.097;0.167;undefined
+Th22;Thymic stromal lymphopoietin;cytokine;0.097;0.167;undefined
+PDE4A;inflammatory;been identified;0.097;0.167;undefined
+PDE4A;gamma delta T cell;been identified;0.097;0.167;undefined
+Phosphodiesterase;inflammatory;been identified;0.097;0.167;undefined
+Phosphodiesterase;gamma delta T cell;been identified;0.097;0.167;undefined
+PDE4A;cAMP-specific 3’,5’-cyclic phosphodiesterase 4;been identified; suggesting;0.048;0.167;undefined
+Phosphodiesterase;cAMP-specific 3’,5’-cyclic phosphodiesterase 4;been identified; suggesting;0.048;0.167;undefined
+Tnfrsf10b;ad;observed;0.097;0.167;undefined
+Tnfrsf10b;Human;observed;0.097;0.167;undefined
+nk;ad;observed;0.097;0.167;undefined
+nk;Human;observed;0.097;0.167;undefined
+natural killer;ad;observed;0.097;0.167;undefined
+natural killer;Human;observed;0.097;0.167;undefined
+sleep disturbances;sleep deprivation;been identified;0.097;0.167;undefined
+pruritus;sleep deprivation;been identified;0.097;0.167;undefined
+ad;Human;have been documented;0.589;0.167;undefined
+ad;POU class 2 homeobox 3;comprises;0.29;0.167;undefined
+cyclosporine;Human;be considered;0.097;0.167;undefined
+mycophenolate mofetil;Human;be considered;0.097;0.167;undefined
+methotrexate;Human;be considered;0.097;0.167;undefined
+azathioprine;Human;be considered;0.097;0.167;undefined
+urticaria;pruritus;may be considered;0.097;0.167;undefined
+urticaria;Human;may be considered;0.097;0.167;undefined
+PLA2G6-associated neurodegeneration;ad;incorporate;0.194;0.167;undefined
+PLA2G6-associated neurodegeneration;PLA2G6-associated neurodegeneration;incorporate;0.097;0.167;undefined
+ad;ad;has evolved;0.992;0.167;undefined
+JAK1;atopic dermatitis;has completed;0.145;0.167;undefined
+JAK1;atopic dermatitis;has completed; has been approved;0.145;0.167;undefined
+upadacitinib;atopic dermatitis;has completed;0.145;0.167;undefined
+upadacitinib;atopic dermatitis;has completed; has been approved;0.145;0.167;undefined
+JAK2;ad;undergone;0.145;0.167;undefined
+JAK2;ad;undergone; has been approved;0.145;0.167;undefined
+ruxolitinib;ad;undergone;0.145;0.167;undefined
+ruxolitinib;ad;undergone; has been approved;0.145;0.167;undefined
+JAK1;ad;undergone;0.145;0.167;undefined
+JAK1;ad;undergone; has been approved;0.145;0.167;undefined
+ad;Alzheimer disease type 1;extends; highlighting; to consider;0.613;0.164;undefined
+ad;Human;extends; highlighting; to consider;0.589;0.164;undefined
+dupilumab;eczema;is; signaling; has been approved; aged;0.121;0.157;undefined
+ad;Human;comprises; should be implemented;0.589;0.155;undefined
+COVID-19;Human;has highlighted; to deliver;0.194;0.146;undefined
+COVID-19;ad;has highlighted; to deliver;0.097;0.146;undefined
+xerosis;Alzheimer disease type 1;support;0.097;0.143;undefined
+ad;immune dysregulation;is precipitated;0.097;0.143;undefined
+ad;ad;is precipitated;0.992;0.143;undefined
+ad;POU class 2 homeobox 3;is precipitated;0.29;0.143;undefined
+Alzheimer disease type 1;pruritus;prioritizes;0.097;0.143;undefined
+Human;impaired academic performance;are; experience; have;0.065;0.142;undefined
+physical disorders;impaired academic performance;are; experience; have;0.065;0.142;undefined
+atopic dermatitis;atopic disorders;is; manifests; may precede;0.032;0.137;undefined
+ad;atopic disorders;is; manifests; may precede;0.032;0.137;undefined
+Human;atopic dermatitis;reported; were; evaluating;0.032;0.137;undefined
+ad;atopy;is; playing;0.048;0.13;undefined
+ad;insufficient sleep;indicated; were;0.048;0.13;undefined
+ad;difficulty falling asleep;indicated; were;0.048;0.13;undefined
+aad;nutritional deficiency disease;indicate; is;0.048;0.13;undefined
+aad;erythroderma;indicate; is;0.048;0.13;undefined
+aad;impetigo;indicate; is;0.048;0.13;undefined
+aad;scabies;indicate; is;0.048;0.13;undefined
+aad;seborrheic dermatitis;indicate; is;0.048;0.13;undefined
+aad;contact dermatitis;indicate; is;0.048;0.13;undefined
+aad;ichthyoses;indicate; is;0.048;0.13;undefined
+aad;cutaneous t-cell lymphoma;indicate; is;0.048;0.13;undefined
+aad;T-cell lymphoma;indicate; is;0.048;0.13;undefined
+aad;psoriasis;indicate; is;0.048;0.13;undefined
+aad;photosensitivity dermatoses;indicate; is;0.048;0.13;undefined
+aad;Immune deficiency Dmel_CG5576;indicate; is;0.048;0.13;undefined
+eczema;Human;indicated; were;0.048;0.13;undefined
+PLA2G6-associated neurodegeneration;Human;should be; including;0.242;0.13;undefined
+dupilumab;ad;is; has demonstrated; aged;0.032;0.128;undefined
+ad;Human;has grown to recognize; is; to shift;0.589;0.127;undefined
+ad;keratosis;has grown to recognize; is; to shift;0.032;0.127;undefined
+Human;health;highlights;0.097;0.125;undefined
+Alzheimer disease type 1;Human;demonstrated;0.194;0.125;undefined
+Alzheimer disease type 1;ad;demonstrated;0.097;0.125;undefined
+Alzheimer disease type 1;T helper 17 cell;demonstrated;0.194;0.125;undefined
+Alzheimer disease type 1;skin lesions;demonstrated;0.097;0.125;undefined
+Hopscotch Dmel_CG1594;Th2 cells;is; is thought to be involved;0.048;0.118;undefined
+Hopscotch Dmel_CG1594;ad;is; is thought to be involved;0.048;0.118;undefined
+Hopscotch Dmel_CG1594;inflammatory;is; is thought to be involved;0.048;0.118;undefined
+Human;Npnt;reported; were; recommending;0.032;0.118;undefined
+ad;pruritus;is characterized;0.29;0.111;undefined
+ad;eczema;is characterized;0.194;0.111;undefined
+Alzheimer disease type 1;Th22;is characterized;0.097;0.111;undefined
+ad;mustard gas;is; spanning;0.097;0.105;undefined
+ad;sleep disturbances;is; spanning;0.194;0.105;undefined
+ad;mental strain;is; spanning;0.097;0.105;undefined
+ad;strain;is; spanning;0.097;0.105;undefined
+molluscum contagiosum;Human;can be; may occur;0.097;0.105;undefined
+molluscum contagiosum;Alzheimer disease type 1;can be; may occur;0.097;0.105;undefined
+impetigo;Human;can be; may occur;0.097;0.105;undefined
+impetigo;Alzheimer disease type 1;can be; may occur;0.097;0.105;undefined
+Human;POU class 2 homeobox 3;are employing; may be;0.145;0.105;undefined
+POU class 2 homeobox 3;Alzheimer disease type 1;is; contributes;0.145;0.089;undefined
+ad;depression;be; to experience;0.145;0.089;undefined
+ad;psychological distress;be; to experience;0.097;0.089;undefined
+PLA2G6-associated neurodegeneration;Human;should be; to optimize;0.242;0.089;undefined
+crisaborole;ad;is; demonstrated;0.242;0.068;undefined
+symptom;Human;is; is; experienced;0.032;0.062;undefined
+ad;Human;is; is; experienced;0.589;0.062;undefined
+atopic dermatitis;inflammatory skin disorder;is;0.097;0.01;undefined
+atopic dermatitis;skin disease;is;0.194;0.01;undefined
+ad;inflammatory skin disorder;is;0.097;0.01;undefined
+ad;skin disease;is;0.194;0.01;undefined
+atopic dermatitis;inflammatory skin disease;is;0.097;0.01;undefined
+ad;inflammatory skin disease;is;0.097;0.01;undefined
+POU class 2 homeobox 3;Alzheimer disease type 1;is;0.145;0.01;undefined
+POU class 2 homeobox 3;viral matrix protein;is;0.097;0.01;undefined
+POU class 2 homeobox 3;lipids;is;0.097;0.01;undefined
+Hopscotch Dmel_CG1594;cytokine;is;0.097;0.01;undefined
+Hopscotch Dmel_CG1594;Signal Transduction;is;0.097;0.01;undefined
+symptom;pruritus;is;0.097;0.01;undefined
+ad;pruritus;is;0.29;0.01;undefined
+Alzheimer disease type 1;insufficient sleep;were;0.097;0.01;undefined
+Alzheimer disease type 1;difficulty falling asleep;were;0.097;0.01;undefined
+ad;nutritional deficiency disease;is;0.097;0.01;undefined
+ad;erythroderma;is;0.097;0.01;undefined
+ad;impetigo;is;0.097;0.01;undefined
+ad;scabies;is;0.097;0.01;undefined
+ad;seborrheic dermatitis;is;0.097;0.01;undefined
+ad;contact dermatitis;is;0.097;0.01;undefined
+ad;ichthyoses;is;0.097;0.01;undefined
+ad;cutaneous t-cell lymphoma;is;0.097;0.01;undefined
+ad;T-cell lymphoma;is;0.097;0.01;undefined
+ad;psoriasis;is;0.097;0.01;undefined
+ad;photosensitivity dermatoses;is;0.097;0.01;undefined
+ad;Immune deficiency Dmel_CG5576;is;0.097;0.01;undefined
+crisaborole;ad;is;0.242;0.01;undefined
+crisaborole;cAMP-specific 3’,5’-cyclic phosphodiesterase 4;is;0.097;0.01;undefined
+PLA2G6-associated neurodegeneration;Human;is;0.242;0.01;undefined
+PLA2G6-associated neurodegeneration;ad;is;0.194;0.01;undefined
+dupilumab;Il13;is;0.097;0.01;undefined
+dupilumab;Il4;is;0.097;0.01;undefined
