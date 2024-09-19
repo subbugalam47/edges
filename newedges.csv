@@ -1,0 +1,150 @@
+,source,target,edge,weight,bio,articles
+0,Ahr,Th2 cells,expressed,0.097,1.0,undefined
+1,Aryl hydrocarbon receptor 1a,Th2 cells,expressed,0.097,1.0,undefined
+2,camp cyclic adenosine monophosphate,Th2 cells,expressed,0.097,1.0,undefined
+3,adenosine monophosphate,Th2 cells,expressed,0.097,1.0,undefined
+4,PTGDR2,Th2 cells,expressed,0.097,1.0,undefined
+5,"cAMP-specific 3’,5’-cyclic phosphodiesterase 4",proinflammatory,was_associated,0.097,1.0,undefined
+6,"cAMP-specific 3’,5’-cyclic phosphodiesterase 4",IL2,was_associated,0.097,1.0,undefined
+7,"cAMP-specific 3’,5’-cyclic phosphodiesterase 4",Interleukin-5,was_associated,0.097,1.0,undefined
+8,"cAMP-specific 3’,5’-cyclic phosphodiesterase 4",interleukin-8,was_associated,0.097,1.0,undefined
+9,"cAMP-specific 3’,5’-cyclic phosphodiesterase 4",interleukin 12,was_associated,0.097,1.0,undefined
+10,"cAMP-specific 3’,5’-cyclic phosphodiesterase 4",Interleukin-22,was_associated,0.097,1.0,undefined
+11,ad,ad,been_associated,0.992,1.0,undefined
+12,atopic dermatitis,ad,revealed,0.097,1.0,undefined
+13,eczema,ad,revealed,0.097,1.0,undefined
+14,health,health,affected,0.097,1.0,undefined
+15,ad,health,affected,0.29,1.0,undefined
+16,staphylococcus aureus,Alzheimer disease type 1,has_been_found_to_colonize,0.097,0.583,undefined
+17,staphylococcus aureus,POU class 2 homeobox 3,has_been_found_to_colonize,0.097,0.583,undefined
+18,staphylococcus aureus,Human,has_been_found_to_colonize,0.097,0.583,undefined
+19,atopic disorders,food allergies,including,0.097,0.25,undefined
+20,atopic disorders,asthma,including,0.097,0.25,undefined
+21,atopic disorders,allergic rhinitis,including,0.097,0.25,undefined
+22,Hypothetical protein ECUMN_2087,Hypothetical protein ECUMN_2087,aged,0.097,0.25,undefined
+23,ad,food allergy,included,0.29,0.25,undefined
+24,ad,asthma,included,0.29,0.25,undefined
+25,ad,food allergy,including,0.29,0.25,undefined
+26,ad,mental health disorders,including,0.097,0.25,undefined
+27,ad,health,including,0.29,0.25,undefined
+28,ad,asthma,including,0.29,0.25,undefined
+29,ad,allergic rhinitis,including,0.097,0.25,undefined
+30,Sxl,Alzheimer disease type 1,has,0.097,0.25,undefined
+31,Filaggrin,Alzheimer disease type 1,has,0.097,0.25,undefined
+32,skin barrier dysfunction,Alzheimer disease type 1,has,0.097,0.25,undefined
+33,POU class 2 homeobox 3,bacteria,plays,0.097,0.25,undefined
+34,POU class 2 homeobox 3,POU class 2 homeobox 3,plays,0.242,0.25,undefined
+35,ad,Alzheimer disease type 1,feeling,0.613,0.25,undefined
+36,Alzheimer disease type 1,Cycle,can_create,0.097,0.25,undefined
+37,Human,pruritus,include,0.194,0.25,undefined
+38,Human,eczema,include,0.097,0.25,undefined
+39,ad,pruritus,include,0.29,0.25,undefined
+40,ad,eczema,include,0.194,0.25,undefined
+41,ad,hydrocortisone,including,0.097,0.25,undefined
+42,ad,triamcinolone acetonide,including,0.097,0.25,undefined
+43,Calcineurin A1 Dmel_CG1455,ad,needed,0.097,0.25,undefined
+44,"cAMP-specific 3’,5’-cyclic phosphodiesterase 4",ad,needed,0.097,0.25,undefined
+45,tci,ad,needed,0.097,0.25,undefined
+46,crisaborole,ad,needed,0.242,0.25,undefined
+47,Human,tcs,include_adding,0.097,0.25,undefined
+48,Human,LXN,include_adding,0.097,0.25,undefined
+49,Human,crisaborole,include_adding,0.097,0.25,undefined
+50,Human,ad,have,0.645,0.25,undefined
+51,dupilumab,eczema,aged,0.121,0.25,undefined
+52,Human,ad,should_be_referred,0.645,0.25,undefined
+53,ad,health,can_yield,0.29,0.25,undefined
+54,dupilumab,Human,have_included,0.097,0.25,undefined
+55,sleep disturbances,Human,appear_to_have,0.097,0.225,undefined
+56,ad,ad,occurs,0.992,0.2,undefined
+57,ad,Alzheimer disease type 1,serve_to_inform,0.613,0.2,undefined
+58,ad,biomarker,is_impacted,0.194,0.2,undefined
+59,Human,ad,presented,0.645,0.2,undefined
+60,Alzheimer disease type 1,POU class 2 homeobox 3,appears_to_be_driven,0.194,0.2,undefined
+61,ad,autism,has_become,0.097,0.2,undefined
+62,Human,pruritus,can_be_traced,0.194,0.2,undefined
+63,ad,Alzheimer disease type 1,reported,0.613,0.2,undefined
+64,Alzheimer disease type 1,POU class 2 homeobox 3,studied,0.194,0.2,undefined
+65,ad,sleep disturbances,noted,0.194,0.2,undefined
+66,Human,POU class 2 homeobox 3,are_employing,0.145,0.2,undefined
+67,nemolizumab,pruritus,being_developed_to_treat,0.121,0.2,undefined
+68,IL31RA,pruritus,being_developed_to_treat,0.121,0.2,undefined
+69,monoclonal antibody,pruritus,being_developed_to_treat,0.121,0.2,undefined
+70,Alzheimer disease type 1,health,has_been_shown_to_be,0.097,0.2,undefined
+71,Alzheimer disease type 1,Human,has_been_shown_to_be,0.194,0.2,undefined
+72,ad,Human,treating,0.589,0.2,undefined
+73,Th22,Interleukin-22,cytokine,0.097,0.167,undefined
+74,Th22,Thymic stromal lymphopoietin,cytokine,0.097,0.167,undefined
+75,PDE4A,inflammatory,been_identified,0.097,0.167,undefined
+76,PDE4A,gamma delta T cell,been_identified,0.097,0.167,undefined
+77,Phosphodiesterase,inflammatory,been_identified,0.097,0.167,undefined
+78,Phosphodiesterase,gamma delta T cell,been_identified,0.097,0.167,undefined
+79,Tnfrsf10b,ad,observed,0.097,0.167,undefined
+80,Tnfrsf10b,Human,observed,0.097,0.167,undefined
+81,nk,ad,observed,0.097,0.167,undefined
+82,nk,Human,observed,0.097,0.167,undefined
+83,natural killer,ad,observed,0.097,0.167,undefined
+84,natural killer,Human,observed,0.097,0.167,undefined
+85,sleep disturbances,sleep deprivation,been_identified,0.097,0.167,undefined
+86,pruritus,sleep deprivation,been_identified,0.097,0.167,undefined
+87,ad,Human,have_been_documented,0.589,0.167,undefined
+88,ad,POU class 2 homeobox 3,comprises,0.29,0.167,undefined
+89,cyclosporine,Human,be_considered,0.097,0.167,undefined
+90,mycophenolate mofetil,Human,be_considered,0.097,0.167,undefined
+91,methotrexate,Human,be_considered,0.097,0.167,undefined
+92,azathioprine,Human,be_considered,0.097,0.167,undefined
+93,urticaria,pruritus,may_be_considered,0.097,0.167,undefined
+94,urticaria,Human,may_be_considered,0.097,0.167,undefined
+95,PLA2G6-associated neurodegeneration,ad,incorporate,0.194,0.167,undefined
+96,PLA2G6-associated neurodegeneration,PLA2G6-associated neurodegeneration,incorporate,0.097,0.167,undefined
+97,ad,ad,has_evolved,0.992,0.167,undefined
+98,JAK1,atopic dermatitis,has_completed,0.145,0.167,undefined
+99,upadacitinib,atopic dermatitis,has_completed,0.145,0.167,undefined
+100,JAK2,ad,undergone,0.145,0.167,undefined
+101,ruxolitinib,ad,undergone,0.145,0.167,undefined
+102,JAK1,ad,undergone,0.145,0.167,undefined
+103,xerosis,Alzheimer disease type 1,support,0.097,0.143,undefined
+104,ad,immune dysregulation,is_precipitated,0.097,0.143,undefined
+105,ad,ad,is_precipitated,0.992,0.143,undefined
+106,ad,POU class 2 homeobox 3,is_precipitated,0.29,0.143,undefined
+107,Alzheimer disease type 1,pruritus,prioritizes,0.097,0.143,undefined
+108,Human,health,highlights,0.097,0.125,undefined
+109,Alzheimer disease type 1,Human,demonstrated,0.194,0.125,undefined
+110,Alzheimer disease type 1,ad,demonstrated,0.097,0.125,undefined
+111,Alzheimer disease type 1,T helper 17 cell,demonstrated,0.194,0.125,undefined
+112,Alzheimer disease type 1,skin lesions,demonstrated,0.097,0.125,undefined
+113,ad,pruritus,is_characterized,0.29,0.111,undefined
+114,ad,eczema,is_characterized,0.194,0.111,undefined
+115,Alzheimer disease type 1,Th22,is_characterized,0.097,0.111,undefined
+116,atopic dermatitis,inflammatory skin disorder,is,0.097,0.01,undefined
+117,atopic dermatitis,skin disease,is,0.194,0.01,undefined
+118,ad,inflammatory skin disorder,is,0.097,0.01,undefined
+119,ad,skin disease,is,0.194,0.01,undefined
+120,atopic dermatitis,inflammatory skin disease,is,0.097,0.01,undefined
+121,ad,inflammatory skin disease,is,0.097,0.01,undefined
+122,POU class 2 homeobox 3,Alzheimer disease type 1,is,0.145,0.01,undefined
+123,POU class 2 homeobox 3,viral matrix protein,is,0.097,0.01,undefined
+124,POU class 2 homeobox 3,lipids,is,0.097,0.01,undefined
+125,Hopscotch Dmel_CG1594,cytokine,is,0.097,0.01,undefined
+126,Hopscotch Dmel_CG1594,Signal Transduction,is,0.097,0.01,undefined
+127,symptom,pruritus,is,0.097,0.01,undefined
+128,ad,pruritus,is,0.29,0.01,undefined
+129,Alzheimer disease type 1,insufficient sleep,were,0.097,0.01,undefined
+130,Alzheimer disease type 1,difficulty falling asleep,were,0.097,0.01,undefined
+131,ad,nutritional deficiency disease,is,0.097,0.01,undefined
+132,ad,erythroderma,is,0.097,0.01,undefined
+133,ad,impetigo,is,0.097,0.01,undefined
+134,ad,scabies,is,0.097,0.01,undefined
+135,ad,seborrheic dermatitis,is,0.097,0.01,undefined
+136,ad,contact dermatitis,is,0.097,0.01,undefined
+137,ad,ichthyoses,is,0.097,0.01,undefined
+138,ad,cutaneous t-cell lymphoma,is,0.097,0.01,undefined
+139,ad,T-cell lymphoma,is,0.097,0.01,undefined
+140,ad,psoriasis,is,0.097,0.01,undefined
+141,ad,photosensitivity dermatoses,is,0.097,0.01,undefined
+142,ad,Immune deficiency Dmel_CG5576,is,0.097,0.01,undefined
+143,crisaborole,ad,is,0.242,0.01,undefined
+144,crisaborole,"cAMP-specific 3’,5’-cyclic phosphodiesterase 4",is,0.097,0.01,undefined
+145,PLA2G6-associated neurodegeneration,Human,is,0.242,0.01,undefined
+146,PLA2G6-associated neurodegeneration,ad,is,0.194,0.01,undefined
+147,dupilumab,Il13,is,0.097,0.01,undefined
+148,dupilumab,Il4,is,0.097,0.01,undefined
